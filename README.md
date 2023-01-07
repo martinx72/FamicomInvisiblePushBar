@@ -15,6 +15,9 @@ Three parts to create, you have to make your own **3D printed part** and **laser
 | **PushBarMX_R1.stl**| Triangle object to raise the cartridge| 3D printing. Don't forget to make a mirror object by yourself while printing.|
 |**PushBar_Rack_MX_REV3.dxf**|The major invisible part in the middle to supoort two triangle parts | laser cutting acrylic, thickness is 3mm |
 
+
+If you want to get an online laser cutting service in U.S., you can try https://www.ponoko.com/ (some suggested to use this, but I never tried as I am in Taiwan. )
+
 ![enter image description here](https://github.com/martinx72/FamicomInvisiblePushBar/blob/main/IMG_5135.JPG?raw=true)
 
 

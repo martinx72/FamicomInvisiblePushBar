@@ -3,6 +3,7 @@ The very first post for this [https://twitter.com/RgRDev/status/1608037466187116
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rgrdev)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I1J3G3I)
 
 
 ![enter image description here](https://github.com/martinx72/FamicomInvisiblePushBar/blob/main/IMG_5134.gif?raw=true)

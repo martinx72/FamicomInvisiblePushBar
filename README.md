@@ -24,3 +24,10 @@ If you want to get an online laser cutting service in U.S., you can try https://
 
 ![enter image description here](https://github.com/martinx72/FamicomInvisiblePushBar/blob/main/IMG_5136.JPG?raw=true)
 
+
+
+if you have issue to use the DXF file as it might be zoom in/out a bit
+Check this one
+![enter image description here](https://user-images.githubusercontent.com/35096470/219431765-3b60c063-3cdb-4a5f-80f8-4e79d78f5fbc.png)
+
+
